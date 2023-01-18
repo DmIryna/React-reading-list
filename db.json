@@ -1,8 +1,16 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
-      "id": 2
+      "title": "CSS. The definitive guide",
+      "id": 3
+    },
+    {
+      "title": "JavaScript. The definitive guide",
+      "id": 4
+    },
+    {
+      "title": "Algorithms and data structure",
+      "id": 5
     }
   ]
 }
